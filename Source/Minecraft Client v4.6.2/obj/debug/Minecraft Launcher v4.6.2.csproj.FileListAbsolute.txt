@@ -1,0 +1,21 @@
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\Minecraft Launcher v4.6.2.exe.config
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\Minecraft Launcher v4.6.2.exe
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\Minecraft Launcher v4.6.2.pdb
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\CmlLib.dll
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\Guna.UI2.dll
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\SevenZip.dll
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\bin\Debug\SevenZip.xml
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft_Launcher_v4._6._2.Form1.resources
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft_Launcher_v4._6._2.login.resources
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft_Launcher_v4._6._2.Properties.Resources.resources
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft Launcher v4.6.2.csproj.GenerateResource.cache
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft Launcher v4.6.2.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft Launcher v4.6.2.exe
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft Launcher v4.6.2.pdb
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft_Launcher_v4._6._2.main.resources
+C:\Users\suley\source\repos\Minecraft Launcher v4.6.2\Minecraft Launcher v4.6.2\obj\Debug\Minecraft Launcher v4.6.2.csproj.AssemblyReference.cache
